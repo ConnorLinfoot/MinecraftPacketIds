@@ -1,0 +1,17 @@
+{
+  "cookie_request": 0,
+  "custom_payload": 1,
+  "disconnect": 2,
+  "finish_configuration": 3,
+  "keep_alive": 4,
+  "ping": 5,
+  "reset_chat": 6,
+  "registry_data": 7,
+  "resource_pack_pop": 8,
+  "resource_pack_push": 9,
+  "store_cookie": 10,
+  "transfer": 11,
+  "update_enabled_features": 12,
+  "update_tags": 13,
+  "select_known_packs": 14
+}

@@ -1,0 +1,8 @@
+{
+  "login_disconnect": 0,
+  "hello": 1,
+  "game_profile": 2,
+  "login_compression": 3,
+  "custom_query": 4,
+  "cookie_request": 5
+}
