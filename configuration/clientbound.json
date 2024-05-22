@@ -13,5 +13,7 @@
   "transfer": 11,
   "update_enabled_features": 12,
   "update_tags": 13,
-  "select_known_packs": 14
+  "select_known_packs": 14,
+  "custom_report_details": 15,
+  "server_links": 16
 }
